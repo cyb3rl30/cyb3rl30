@@ -11,3 +11,5 @@
 
 └─$ echo -e "\033[32mTexto verde\033[0m"
 \033[32mTexto verde\033[0m
+
+<span style="color:green">Texto em verde</span>
