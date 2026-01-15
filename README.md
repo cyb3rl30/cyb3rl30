@@ -1,7 +1,6 @@
 # 👨‍💻 Leonardo | cyb3rl30
 
 ## Boot
-```console
 ┌──(cyb3rl30㉿kali)-[/boot]
 └─$ start --profile v2.0
 [ 0.000000 ] HumanOS v1.3 online
