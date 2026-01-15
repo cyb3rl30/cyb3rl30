@@ -9,3 +9,5 @@
 [ 0.821994 ] Loading: Cybersecurity mindset
 [ 1.104332 ] Status: Ready to hack & learn
 
+└─$ echo -e "\033[32mTexto verde\033[0m"
+\033[32mTexto verde\033[0m
