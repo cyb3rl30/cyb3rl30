@@ -1,4 +1,3 @@
-```shell
-whoami
-pwd
-
+[##########] Booting cyb3rl30 profile...
+[##########] Loading skills...
+[##########] System ready!
