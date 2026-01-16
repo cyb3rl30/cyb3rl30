@@ -1,10 +1,10 @@
-```bash ============================================
-        cyb3rl30 Introduction
+```bash
+============================================
+         cyb3rl30 Introduction
 ============================================
 
-Sou Leonardo (aka cyb3rl30).
-Estudante de TI com foco em desenvolvimento front‑end e segurança.
-Apaixonado por aprender na prática e explorar tanto o mundo dev
-quanto ferramentas de cybersecurity.
+Sou Leonardo (cyb3rl30). Estudante de TI com foco em análise e desenvolvimento de sistemas e apaixonado por cybersecurity.
+Gosto de aprender de tudo um pouco entre o mundo dev e segurança, sempre buscando evoluir na prática.
 
+```
 
