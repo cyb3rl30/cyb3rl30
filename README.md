@@ -23,7 +23,6 @@ sobre_mim = {
 print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 
 ```
-```python
 
 ## 🧠 My Focus Areas
 - Web Hacking & Pentesting
@@ -54,7 +53,7 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 ## 🌐 Hacker Environment & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,powershell,git,vscode,vim,mysql,nginx" alt="Environment" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,powershell,git,vscode,vim,mysql,nginx" alt="Environment"/>
 </p>
 
 ## 🔗 Connect with Me
