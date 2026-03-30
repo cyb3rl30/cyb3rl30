@@ -57,11 +57,15 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/leonardo-a-82568323a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Leonardo A. (cyb3rl30)'s LinkedIn"/></a></p>
+<p align="left"> 
+  <a href="[https://www.linkedin.com/in/leonardo-a-82568323a/](https://www.linkedin.com/in/leonardo-a-82568323a/)" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF)" alt="LinkedIn"/>
+  </a>
+</p>
 
-```
-
-💬 Quote
+## 💬 Quote
 > "it's all in your head"
 
-```
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)" alt="Bottom Line" width="100%" />
+</p>
