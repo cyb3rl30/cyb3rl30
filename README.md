@@ -22,19 +22,21 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
                                                              
-# Perfil do Leonardo (cyb3rl30)
+```python
 
+Perfil do Leonardo (cyb3rl30)
 sobre_mim = {
-    "estudante": "Análise e Desenvolvimento de Sistemas",
-    "paixao": "Cibersegurança",
-    "foco": "Aprender a fundo a relação entre o mundo dev e a segurança",
-    "estudos_atuais": [
-        "Python", "Go", "Web Hacking", 
-        "Segurança em Nuvem (Cloud)", "Análise de Vulnerabilidades"
-    ]
+"estudante": "Análise e Desenvolvimento de Sistemas",
+"paixao": "Cibersegurança",
+"foco": "Aprender a fundo a relação entre o mundo dev e a segurança",
+"estudos_atuais": [
+"Python", "Go", "Web Hacking",
+"Segurança em Nuvem (Cloud)", "Análise de Vulnerabilidades"
+]
 }
 
 print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
+```
 
 ```
  
