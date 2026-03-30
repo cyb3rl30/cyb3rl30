@@ -59,7 +59,9 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/leonardo-a-82568323a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Leonardo A. (cyb3rl30)'s LinkedIn"/></a></p>
 
-## 💬 Quote
+```
+
+💬 Quote
 > "it's all in your head"
 
 ```
