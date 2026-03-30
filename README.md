@@ -1,23 +1,27 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Leonardo A. (cyb3rl30)</h1>
 <h3 align="center">I am a Systems Analysis and Development student with a focus on Cybersecurity</h3>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+</p>
 
 ## 📌 About Me
-- ```python
-- Perfil do Leonardo (cyb3rl30)
-- sobre_mim = {
-- "estudante": "Análise e Desenvolvimento de Sistemas",
-- "paixao": "Cibersegurança",
-- "foco": "Aprender a fundo a relação entre o mundo dev e a segurança",
-- "estudos_atuais": [
-- "Python", "Go", "Web Hacking",
-- "Segurança em Nuvem (Cloud)", "Análise de Vulnerabilidades"
-- ]
-- }
-- print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
-- ```
 
+```python
+# Perfil do Leonardo (cyb3rl30)
+
+sobre_mim = {
+    "estudante": "Análise e Desenvolvimento de Sistemas",
+    "paixao": "Cibersegurança",
+    "foco": "Aprender a fundo a relação entre o mundo dev e a segurança",
+    "estudos_atuais": [
+        "Python", "Go", "Web Hacking",
+        "Segurança em Nuvem (Cloud)", "Análise de Vulnerabilidades"
+    ]
+}
+
+print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
+```
 
 ## 🧠 My Focus Areas
 - Web Hacking & Pentesting
