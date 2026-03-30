@@ -22,11 +22,19 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
                                                              
-I am Leonardo (cyb3rl30).
-IT student focused on systems analysis and development,
-with a strong passion for cybersecurity.
-I enjoy learning a bit of everything between
-the dev world and security, always seeking to grow.
+# Perfil do Leonardo (cyb3rl30)
+
+sobre_mim = {
+    "estudante": "Análise e Desenvolvimento de Sistemas",
+    "paixao": "Cibersegurança",
+    "foco": "Aprender a fundo a relação entre o mundo dev e a segurança",
+    "estudos_atuais": [
+        "Python", "Go", "Web Hacking", 
+        "Segurança em Nuvem (Cloud)", "Análise de Vulnerabilidades"
+    ]
+}
+
+print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 
 ```
  
