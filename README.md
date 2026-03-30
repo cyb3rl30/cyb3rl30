@@ -21,7 +21,9 @@ sobre_mim = {
 }
 
 print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
+
 ```
+```python
 
 ## 🧠 My Focus Areas
 - Web Hacking & Pentesting
@@ -64,5 +66,7 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
 
 ```
