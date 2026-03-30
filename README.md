@@ -31,11 +31,6 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 - Cybersecurity (Red & Blue Team)
 - Systems Analysis and Development
 
-
-## 🛠️ Languages & Tools
-
-## 🛠️ Tech Stack
-
 > ### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,bash,js,java,cpp,html,css" alt="Languages" />
