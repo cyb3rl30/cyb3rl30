@@ -64,7 +64,8 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 </p>
 
 ## 💬 Quote
-> "it's all in your head"
+> "Talvez não seja sobre evitar o erro.
+Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaySway2/MaySway2/main/assets/pacman.gif" alt="Pacman" width="100%" />
