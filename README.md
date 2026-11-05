@@ -63,9 +63,6 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
   </a>
 </p>
 
-## 💬 Quote
-> "when we lose our principles, we invite chaos" -Irving
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaySway2/MaySway2/main/assets/pacman.gif" alt="Pacman" width="100%" />
 </p>
