@@ -58,7 +58,7 @@ print(f"Sou o {sobre_mim['estudante']} apaixonado por {sobre_mim['paixao']}.")
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-a-82568323a/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
